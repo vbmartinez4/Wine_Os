@@ -193,5 +193,3 @@ When a user hovers over the image, a transition feature is also added to give it
 
 ## Presentation Notes
 [Notes Link](https://docs.google.com/document/d/1grPDizqEJmBLtP_DUWgv1kragflEH_7da_Cw12SHuVs/edit?usp=sharing)
-=======
-
